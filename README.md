@@ -23,47 +23,57 @@
 
 ## 🌟 About Me
 
-Hi there!👋 I'm **Arivumani**, a passionate AI & Data Science student who loves blending technology with creativity to develop innovative solutions. My expertise spans across Python, Machine Learning, and building engaging user interfaces with Streamlit. Always on the lookout for collaborative opportunities!
+Hi there! 👋 I'm **Arivumani**, an enthusiastic **AI & Data Science** student with a passion for creating innovative solutions using cutting-edge technology. My primary focus lies in solving real-world problems using **Machine Learning**, **Python**, and **Web Development**.
 
-- 🔭 **Current Focus:** AI & Machine Learning
-- 📚 **Learning Path:** Deepening my understanding of data science tools and frameworks.
-- 🤝 **Collaboration:** Open to projects that challenge my skills and broaden my horizons.
+- 🔭 **Current Focus:** AI, Machine Learning, and Web-based ML apps.
+- 🎓 **Education:** B.Tech in Artificial Intelligence and Data Science.
+- 📚 **Learning Path:** Enhancing skills in Deep Learning and Full-Stack Development.
+- 🤝 **Collaboration:** Looking for projects in AI/ML, open-source contributions, or any tech challenges!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="60" height="60"/>
+### Languages:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50"/>
 </p>
 
-### AI & Machine Learning:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="55" height="55"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
+### AI/ML Tools:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/streamlit.png" alt="Streamlit" width="50" height="50"/>
+</p>
+
+### Other Tools:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
 </p>
 
 ---
 
-## 🎯 Projects
+## 🎯 Featured Projects
 
-- **[Survival Prediction for Leukemia](#)**: Developing a real-time prediction system using advanced machine learning models to aid in clinical decisions.
+- **[Survival Prediction for Leukemia](https://github.com/Arivumani67/survival-prediction)**: Built a prediction system for leukemia patients using ML models, improving clinical decision-making.  
+- **[AI-Powered Chatbot](https://github.com/Arivumani67/ai-chatbot)**: Created an intelligent chatbot for interactive conversations using NLP techniques.  
+- **[Image Upscaling Tool](https://github.com/Arivumani67/image-upscaling)**: Designed an application to upscale images using advanced deep learning models.  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arivumani67&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arivumani673&theme=radical" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arivumani67&theme=radical" alt="GitHub Streak" width="45%">
 </p>
 
 <p align="center">
@@ -93,5 +103,5 @@ Hi there!👋 I'm **Arivumani**, a passionate AI & Data Science student who love
 </p>
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
