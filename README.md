@@ -24,12 +24,32 @@ Hi there! 👋 I am **Arivumani**, a dedicated student of **Artificial Intellige
 
 ## 🛠️ **Tech Stack**
 
-| **Category**              | **Tools**                                                                                       |
-|---------------------------|-------------------------------------------------------------------------------------------------|
-| **Languages**             | ![Python](https://img.icons8.com/color/48/000000/python.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
-| **AI/ML Frameworks**      | ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) ![Keras](https://github.com/devicons/devicon/raw/master/icons/keras/keras-original.svg) |
-| **Data Libraries**        | ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) |
-| **Tools & Platforms**     | ![Streamlit](https://img.icons8.com/color/48/000000/streamlit.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) |
+### Languages:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50" height="50"/>
+</p>
+
+### AI/ML Tools:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/streamlit.png" alt="Streamlit" width="50" height="50"/>
+</p>
+
+### Other Tools:
+<p>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
+</p>
+
+---
 
 ---
 
