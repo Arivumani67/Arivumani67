@@ -81,7 +81,7 @@ Hi there! 👋 I am **Arivumani**, a dedicated student of **Artificial Intellige
   <a href="https://www.linkedin.com/in/Arivumani67/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/m_r__massmani_" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
   <a href="https://wa.me/+916369806707" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="mailto:arivumani@example.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"></a>
+  <a href="mailto:arivumani6369@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"></a>
 </div>
 
 ---
