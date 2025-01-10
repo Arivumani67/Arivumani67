@@ -62,12 +62,12 @@ Hi there!👋 I'm **Arivumani**, a passionate AI & Data Science student who love
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarthickJ0&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarthickJ03&theme=radical" alt="GitHub Streak" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arivumani67&show_icons=true&theme=radical" alt="GitHub Stats" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arivumani673&theme=radical" alt="GitHub Streak" width="45%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarthickJ0&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arivumani67&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
@@ -75,13 +75,13 @@ Hi there!👋 I'm **Arivumani**, a passionate AI & Data Science student who love
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/KarthickJ/" target="_blank">
+  <a href="https://www.linkedin.com/in/Arivumani67/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" alt="LinkedIn" width="60" height="60"/>
   </a>
-  <a href="https://www.instagram.com/karthick___J" target="_blank">
+  <a href="https://www.instagram.com/m_r__massmani_" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="60" height="60"/>
   </a>
-  <a href="https://wa.me/+919361124817" target="_blank">
+  <a href="https://wa.me/+916369806707" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" width="60" height="60"/>
   </a>
 </p>
@@ -89,7 +89,7 @@ Hi there!👋 I'm **Arivumani**, a passionate AI & Data Science student who love
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KarthickJ0&theme=radical" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arivumani67&theme=radical" alt="Profile Details">
 </p>
 
 <p align="center">
