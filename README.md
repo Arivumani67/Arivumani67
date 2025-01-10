@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner.png" alt="Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Banner" width="100%">
 </div>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF;">Arivumani</span>!</h1>
